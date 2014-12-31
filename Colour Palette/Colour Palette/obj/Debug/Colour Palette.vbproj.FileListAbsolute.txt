@@ -1,0 +1,10 @@
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\bin\Debug\Colour Palette.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\bin\Debug\Colour Palette.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\bin\Debug\Colour Palette.xml
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour_Palette.Resources.resources
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour Palette.vbproj.GenerateResource.Cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour Palette.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour Palette.xml
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour Palette.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Colour Palette\Colour Palette\obj\Debug\Colour_Palette.frmPalette.resources
